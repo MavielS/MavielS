@@ -1,4 +1,30 @@
-### Hi there 👋
+#### Hi, I'm Sebastien ! </br>
+
+Welcome on my github profile !👋
+
+I'm a passionate **Data Scientist** from **France** that loves learning new things.
+I'm mainly programming in **Python** 🐍 and I have degrees in Data Sciences and embedded systems ⚙️.
+
+Sometimes I write about my projects on my medium 📝, see my posts [here](https://medium.com/@sebastienmaviel) !
+
+You can find several Data Sciences projects:
+
+- [FINISHED ☑️] I build [here an interactive dashboard of a bank scoring systems](https://github.com/MavielS/modele-de-scoring-bancaire). It shows how machine learning can help bankers to give or not a loan.
+
+- [IN PROGRESS ⏳] I love the french TV Show Koh-Lanta and I wanted to know how fast people can change their opinions on candidates. To do that, I scraped thousands of tweets to analyse their contents ! Find the code [here](https://github.com/MavielS/koh-lanta-analyse-de-popularite) and learn more [here](https://medium.com/@sebastienmaviel/%C3%A9volution-de-la-popularit%C3%A9-des-candidats-de-koh-lanta-partie-1-ac381792e623?p=ac381792e623).
+
+- [FINISHED ☑️] The cloud is an essential tools for data science projets, I discovered AWS and Spark through this project where I managed to create a preprocessing pipeline on an EC2 machine. See the codes uses [here](https://github.com/MavielS/fruits_spark_aws).
+
+- ...
+
+---- 
+
+<p align="center">
+  Do not hesitate to contact me ! <br> <br>
+  <a href="https://www.linkedin.com/in/s%C3%A9bastien-maviel/" class="fancybox" ><img src="https://user-images.githubusercontent.com/63207451/97303444-b2c04380-185a-11eb-8cfc-864c33a64e4b.png" title="LinkedIn" width="40" height="40"></a>
+  <a href="mailto:sebastien.maviel@gmail.com" class="fancybox" ><img src="https://user-images.githubusercontent.com/63207451/97303543-cec3e500-185a-11eb-8adc-c1364e2054a9.png" title="Mail" width="40" height="40"></a>
+</p>
+
 
 <!--
 **MavielS/MavielS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
