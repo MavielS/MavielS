@@ -3,7 +3,7 @@
 Welcome on my github profile !👋
 
 I'm a passionate **Data Scientist** from **France** that loves learning new things.
-I'm mainly programming in **Python** 🐍 and I have degrees in Data Sciences and embedded systems ⚙️.
+I'm mainly programming in **Python** 🐍 and I have degrees in Data Sciences and Embedded Systems ⚙️.
 
 Sometimes I write about my projects on my medium blog 📝, check my posts [here](https://medium.com/@sebastienmaviel) !
 
