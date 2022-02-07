@@ -7,7 +7,7 @@ I'm mainly programming in **Python** 🐍 and I have degrees in Data Sciences an
 
 Sometimes I write about my projects on my medium blog 📝, check my posts [here](https://medium.com/@sebastienmaviel) !
 
-You can find several Data Sciences projects:
+Please discover my projects:
 
 - [FINISHED ☑️] I build [here an interactive dashboard for a bank scoring system](https://github.com/MavielS/modele-de-scoring-bancaire). It shows how machine learning can help bankers to give or not a loan.
 
