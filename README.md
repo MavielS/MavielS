@@ -9,7 +9,7 @@ Sometimes I write about my projects on my medium blog 📝, check my posts [here
 
 You can find several Data Sciences projects:
 
-- [FINISHED ☑️] I build [here an interactive dashboard of a bank scoring systems](https://github.com/MavielS/modele-de-scoring-bancaire). It shows how machine learning can help bankers to give or not a loan.
+- [FINISHED ☑️] I build [here an interactive dashboard for a bank scoring system](https://github.com/MavielS/modele-de-scoring-bancaire). It shows how machine learning can help bankers to give or not a loan.
 
 - [IN PROGRESS ⏳] I love the french TV Show Koh-Lanta and I wanted to know how fast people can change their opinions on candidates. To do that, I scraped thousands of tweets to analyse their contents ! Find the code [here](https://github.com/MavielS/koh-lanta-analyse-de-popularite) and learn more [here](https://medium.com/@sebastienmaviel/%C3%A9volution-de-la-popularit%C3%A9-des-candidats-de-koh-lanta-partie-1-ac381792e623?p=ac381792e623).
 
