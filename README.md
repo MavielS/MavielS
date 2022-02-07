@@ -5,7 +5,7 @@ Welcome on my github profile !👋
 I'm a passionate **Data Scientist** from **France** that loves learning new things.
 I'm mainly programming in **Python** 🐍 and I have degrees in Data Sciences and embedded systems ⚙️.
 
-Sometimes I write about my projects on my medium 📝, see my posts [here](https://medium.com/@sebastienmaviel) !
+Sometimes I write about my projects on my medium blog 📝, see my posts [here](https://medium.com/@sebastienmaviel) !
 
 You can find several Data Sciences projects:
 
@@ -15,7 +15,7 @@ You can find several Data Sciences projects:
 
 - [FINISHED ☑️] The cloud is an essential tools for data science projets, I discovered AWS and Spark through this project where I managed to create a preprocessing pipeline on an EC2 machine. See the codes uses [here](https://github.com/MavielS/fruits_spark_aws).
 
-- ...
+- [FINISHED ☑️] [Here's an example](https://github.com/MavielS/emissions-energy-ges-seattle) on predicting the energy and GHG Emissions with buildings details.
 
 ---- 
 
