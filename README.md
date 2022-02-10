@@ -13,7 +13,7 @@ Please discover my projects:
 
 - [IN PROGRESS ⏳] I love the french TV Show Koh-Lanta and I wanted to know how fast people can change their opinions on candidates. To do that, I scraped thousands of tweets to analyse their contents ! Find the code [here](https://github.com/MavielS/koh-lanta-analyse-de-popularite) and learn more [here](https://medium.com/@sebastienmaviel/%C3%A9volution-de-la-popularit%C3%A9-des-candidats-de-koh-lanta-partie-1-ac381792e623?p=ac381792e623).
 
-- [FINISHED ☑️] The cloud is an essential tools for data science projets, I discovered AWS and Spark through this project where I managed to create a preprocessing pipeline on an EC2 machine. See the codes uses [here](https://github.com/MavielS/fruits_spark_aws).
+- [FINISHED ☑️] The cloud is an essential tool for data science projets, I discovered AWS and Spark through this project where I managed to create a preprocessing pipeline on an EC2 machine. See the codes uses [here](https://github.com/MavielS/fruits_spark_aws).
 
 - [FINISHED ☑️] [Here's an example](https://github.com/MavielS/emissions-energy-ges-seattle) on predicting the energy and GHG Emissions with buildings details.
 
