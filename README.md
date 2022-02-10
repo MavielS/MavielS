@@ -17,6 +17,9 @@ Please discover my projects:
 
 - [FINISHED ☑️] [Here's an example](https://github.com/MavielS/emissions-energy-ges-seattle) on predicting the energy and GHG Emissions with buildings details.
 
+- [FINISHED ☑️] [Here's an example](https://github.com/MavielS/segmentation-client-e-commerce) on how is it possible to target better clients of an e-commerce thanks to clustering methods.
+
+
 ---- 
 
 <p align="center">
